@@ -15,6 +15,7 @@ libccd is currently part of:
 1. [ODE](http://www.ode.org/) library (see ODE's *./configure --help* how to enable it),
 2. [FCL](http://www.ros.org/wiki/fcl) library from [Willow Garage](http://www.willowgarage.com/),
 3. [Bullet3](http://bulletphysics.org/) library (https://github.com/bulletphysics/bullet3).
+4. [Dart](https://github.com/dartsim/dart) Dynamic Animation and Robotics Toolkit.
 
 For implementation details on GJK algorithm, see
 http://www.win.tue.nl/~gino/solid/jgt98convex.pdf.
